@@ -1,5 +1,5 @@
 # About this mod
-![Logo](https://github.com/a-rabin/pvz-advanced/PvZ_Logo.png)
+![Logo](PvZ_Logo.png)
 
 Plants vs. Zombies NoVariant (formerly PvZ Advanced)
 Start development date: August 1st 2023
