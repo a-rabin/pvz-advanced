@@ -3,7 +3,7 @@ Plants vs. Zombies NoVariant (formerly PvZ Advanced)
 Start development date: August 1st 2023
 
 This mod has been inspired from the famous Plants vs. Zombies beta mod. 
-Featuring buffed zombies, buffed plants, this mod will attempt to bring a new type of challenge to the average mods player.
+Featuring buffed zombies, buffed plants, this mod will attempt to bring a new type of challenge to the average Plants vs. Zombies mods player.
 
 ## Featuring
 - Buffed zombie health and abilities 
