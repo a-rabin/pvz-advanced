@@ -17,6 +17,9 @@ Featuring buffed zombies, buffed plants, this mod will attempt to bring a new ty
 
 Full list of changes to the game can be found on the PDF file on the patch.
 
+# Releases
+Coming soon.
+
 # Credits
 ## Scripts
 Ayban, Siku-chan, PopGat, 2G70大魔王, et al.
