@@ -22,7 +22,7 @@ Coming soon.
 
 # Credits
 ## Scripts
-Ayban, Siku-chan, PopGat, 2G70大魔王, et al.
+Ayban, Keifer, Siku-chan, Bayant白蚁, 2G70大魔王, marcwu et al.\
 If you have not been credited, please make a Github issue on this repository.
 
 ## Visuals
@@ -32,4 +32,4 @@ Keifer for the Autumn Leaf texture
 虽花 (except for CYS which is Neon Mixtape (idk how to credit that one I'm sorry))
 
 ## Special Thanks
-PopGat for script assistance and providence. Without him this mod would not have been completed.
+Bayant for script assistance and providence. Without him this mod would not have been completed.
