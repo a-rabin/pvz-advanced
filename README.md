@@ -33,7 +33,7 @@ Coming soon.
 	
 # Difference between Unpacked and Packed versions
 Unpacked version of the game looks like this:
-<img src="unpacked_dir_struct.png">
+![unpacked](unpacked_dir_struct.png)
 
 While packed version looks like this:
 ![packed](packed_dir_struct.png)
