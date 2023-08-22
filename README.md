@@ -12,7 +12,7 @@ Featuring buffed zombies, buffed plants, this mod will attempt to bring a new ty
 - Buffed plants with new abilities
 - A new stage 6 with new challenges
 - New gameplay balancing!
-- A new DMCA friendly way of mod installation
+- A new copyright friendly way of mod installation
 - Keyboard hotkeys!
 
 Full list of changes to the game can be found on the PDF file on the patch.
@@ -22,7 +22,7 @@ Coming soon.
 
 # Credits
 ## Scripts
-Ayban, Keifer, Siku-chan, Bayant白蚁, 2G70大魔王, marcwu et al.\
+Ayban, Keifer, Siku-chan, Bayant白蚁, 2G70大魔王, marcwu531 et al.\
 If you have not been credited, please make a Github issue on this repository.
 
 ## Visuals
