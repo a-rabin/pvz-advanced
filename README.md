@@ -20,6 +20,27 @@ Full list of changes to the game can be found on the PDF file on the patch.
 # Releases
 Coming soon.
 
+# Install Instructions
+1. Have a vanilla copy of the OG Version (1.0.1051) of Plants vs. Zombies ready.
+2. Download the patch from here.
+3. Run the patch. If you see this screen: 
+
+	![Smartscreen](smartscreen.png)<br/>
+	Then just click on Run. This issue happens because there is no certification on the patch executable. It is safe to run.
+4. Set the install location on the patch to the vanilla copy of OG on step 1.
+5. Install.
+6. Run "PlantsVsZombiesNoVariant.exe" and enjoy!
+	
+# Difference between Unpacked and Packed versions
+Unpacked version of the game looks like this:
+![unpacked](unpacked_dir_struct.png)
+
+While packed version looks like this:
+![packed](packed_dir_struct.png)
+
+Download the appropriate patch for the appropriate version of the game. Other than that, **there are no difference in both of the versions**.
+
+
 # Credits
 ## Scripts
 Ayban, Keifer, Siku-chan, Bayant白蚁, 2G70大魔王, marcwu531 et al.\
