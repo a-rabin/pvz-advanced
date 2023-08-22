@@ -23,7 +23,7 @@ Coming soon.
 # Credits
 ## Scripts
 Ayban, Keifer, Siku-chan, Bayant白蚁, 2G70大魔王, marcwu531 et al.\
-If you have not been credited, please make a Github issue on this repository.
+If you have not been credited, please create a Github issue on this repository.
 
 ## Visuals
 Keifer for the Autumn Leaf texture
