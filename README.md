@@ -21,7 +21,7 @@ Full list of changes to the game can be found on the PDF file on the patch.
 ![teaser](teaser1.gif)
 
 # Releases
-Coming soon.
+Available [here](https://github.com/a-rabin/pvz-advanced/releases/).
 
 # Install Instructions
 1. Have a vanilla copy of the OG Version (1.0.1051) of Plants vs. Zombies ready.
