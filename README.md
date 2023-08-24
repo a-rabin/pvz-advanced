@@ -36,10 +36,10 @@ Available [here](https://github.com/a-rabin/pvz-advanced/releases/).
 	
 # Difference between Unpacked and Packed versions
 Unpacked version of the game looks like this:
-![unpacked](unpacked_dir_struct.png)
+![unpacked](unpacked_dir_struct.PNG)
 
 While packed version looks like this:
-![packed](packed_dir_struct.png)
+![packed](packed_dir_struct.PNG)
 
 Download the appropriate patch for the appropriate version of the game. Other than that, **there are no difference in both of the versions**.
 
