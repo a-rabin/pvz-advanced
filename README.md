@@ -17,6 +17,9 @@ Featuring buffed zombies, buffed plants, this mod will attempt to bring a new ty
 
 Full list of changes to the game can be found on the PDF file on the patch.
 
+# Teasers
+![teaser](teaser1.gif)
+
 # Releases
 Coming soon.
 
